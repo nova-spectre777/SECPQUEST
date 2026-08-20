@@ -1,0 +1,12 @@
+{
+  "id": "synthetic-20",
+  "title": "Synthetic 20-bit Challenge",
+  "kind": "synthetic",
+  "network": "mainnet",
+  "start": "0x80000",
+  "end": "0xfffff",
+  "target_address": "121T188ocxyifXFaqtXPGfTPRP96fQbrVA",
+  "target_pubkey": null,
+  "source_url": null,
+  "notes": "Bundled deterministic test challenge. Secret scalar is intentionally inside this toy range."
+}
